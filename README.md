@@ -1,5 +1,6 @@
 # Opensearch-Upgrading-v2.12.0
-Upgrade from version 2.11.1 to 2.12.0
+
+This Documentation  will discribe HowTo upgrade from Opensearch-v2.11.1 to v2.12.0.
 
 Open environement file.
 
